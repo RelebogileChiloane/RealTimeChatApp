@@ -1,0 +1,59 @@
+/* code for the server(Socket,io)*/
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chat-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+}
+
+#form {
+    display: flex;
+}
+
+#input {
+    flex-grow: 1;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chat-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+#messages {
+    list-style-type: none;
+    padding: 0;
+}
+
+#form {
+    display: flex;
+}
+
+#input {
+    flex-grow: 1;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+/* the code starts here*/
